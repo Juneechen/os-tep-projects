@@ -10,3 +10,6 @@
 # VS Code
 .vscode/
 *.suo
+
+# project tests-out/ folder under any subdirectory
+tests-out/
