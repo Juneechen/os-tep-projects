@@ -1,0 +1,12 @@
+# Mac
+.DS_Store
+
+# C source files
+*.o
+
+# Executables
+*.exe
+
+# VS Code
+.vscode/
+*.suo
